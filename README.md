@@ -13,7 +13,6 @@ This project demonstrates how to deploy a Linux-based web server on AWS using Am
 - Amazon EC2
 - Amazon VPC
 - Security Groups
-- CloudWatch
 
 ## Security
 - SSH access restricted to my IP
